@@ -1,0 +1,78 @@
+Code Book for
+
+pbsd1.txt (text)
+ 
+
+Each line in the data file is a different pair, so if an individual answered x pairs, there
+x lines of data for that individual. 
+
+There are 1420 answered pairs in the data set. 
+09/
+
+1. Individual, first respondent=1, etc.
+
+2.  Chose site A, 1=yes, 0=no.
+
+3.  Mileage site A.
+
+4. Total vertical fee climbing at site A.
+
+5.  # of peaks at site A.
+
+6. Miles of single track at Site A.
+
+7.  Hikers/equestrians at Site A, 1=yes, 0=no.
+
+8.  Fee at site A.
+
+9.  Mileage site B.
+
+10. Total vertical fee climbing at site B.
+
+11.  # of peaks at site B.
+
+12. Miles of single track at Site B.
+
+13.  Hikers/equestrians at Site B, 1=yes, 0=no.
+
+14.  Fee at site B.
+
+15.  Age of individual.
+
+16. Gender: 1=male, 0=female
+
+17.  Mountain biking experience: 1=novice, 2=intermediate, 3=advanced
+
+18.  Mountain biker: 1=yes, 0=no
+
+19.  Has individual raced: 1=yes, 0=no
+
+20.  Racing NORBA catorgory: 3=beginner, 2=sport, 1=expert
+
+21.  Racing USCF catorgory: 5=Cat. 5, 4=Cat. 4, 3=Cat. 3, 2=Cat. 2, 1=Cat. 1
+
+22.  How days individual rides in spring/summer week.
+
+23.  Individual considers a mountain bike ride training: 1=yes, 0=no
+
+24.  Does individual have a suspension system: 1=yes, 0=no
+
+25.  Does individual have clipless pedals: 1=yes, 0=no
+
+26.  Cost of mtn. bike
+
+27.  Age of mtn. bike
+
+28.  Martial Status: 1=unmarried, 0=married
+
+29.  How manny children.
+
+30.  How much the individual's household spends on housing, food, transportation, clothing, and entertainment in a typical month: 1=<,$800, 2=$800-$1200, 3=$1200-$1600, 4=$1600-$2000, 5=>$2000
+
+31.  Individual's hourly wage rate.
+
+32.  Did the individual include comments, yes=1, no=0.
+
+Missing data = 99
+
+
